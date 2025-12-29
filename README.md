@@ -1,11 +1,10 @@
 ### About the Project
 
-The project is an analysis of the Ballona Freshwater Marsh's long-term filtration capacity.
+The project presents the longest study to date spanning twenty years of the effectiveness of the Ballona Wetlands Freshwater Marsh as an ecological sink.
 
 The code is run in Jupyter Notebook using Python Pandas tools.
 
 - Most of the analysis reported in the paper is done in Ballona_data.ipynb that analyzed 20 years of bacteria levels in the Ballona Freshwater Marsh.
-
 - Additional analysis was conducted in County_data.ipynb, which examines six years of water-quality data from waterways surrounding the marsh, including heavy metals and pesticide concentrations in addition to bacterial indicators. Much of this analysis is not reported in the paper.
 ### Files Required:
 
