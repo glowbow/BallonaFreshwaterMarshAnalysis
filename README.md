@@ -2,7 +2,7 @@
 
 The project is an analysis of the Ballona Freshwater Marsh's long-term filtration capacity.
 
-The code is run in Jupyter Notebook using Python Pandas tools
+The code is run in Jupyter Notebook using Python Pandas tools.
 
 - Most of the analysis reported in the paper is done in Ballona_data.ipynb that analyzed 20 years of bacteria levels in the Ballona Freshwater Marsh.
 
@@ -33,4 +33,4 @@ The code is run in Jupyter Notebook using Python Pandas tools
 
 ### Libraries Needed:
 
-Libraries required can be found in the LibrariesUsed.txt file
+Libraries required can be found in the LibrariesUsed.txt file.
